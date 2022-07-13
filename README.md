@@ -49,4 +49,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### How the application looks right now
 
-![image](https://user-images.githubusercontent.com/60627025/178593474-2127fc69-0730-40b6-942a-94196bc3f4d9.png)
+![image](https://user-images.githubusercontent.com/60627025/178668678-b492ca78-c3c3-4af1-ba17-d7a313564620.png)
+
+
+
