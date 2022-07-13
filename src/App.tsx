@@ -150,8 +150,8 @@ function App() {
     });
 }, []);
 
-  const onBtExport = useCallback(() => {
-    gridRef.current!.api.exportDataAsExcel();
+  const onBtExport = useCallback(() => {    
+    gridRef.current!.api.exportDataAsCsv();
   }, []);
 
 
@@ -167,7 +167,7 @@ function App() {
             onClick={onBtExport}
             style={{ marginBottom: '5px', fontWeight: 'bold' }}
           >
-            Export to Excel
+            Export
           </button>
         </div>
       <div className="ag-theme-alpine" style={gridStyle}>
