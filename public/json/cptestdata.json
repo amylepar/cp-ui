@@ -1,0 +1,343 @@
+[
+    {
+       "lei": "2111",
+       "version": 1,
+       "legalName": "test",
+       "legalJurisdiction": "Test",
+       "entityCategory": "test",
+       "entityStatus": "ok",
+       "loadTime": "2021-03-14",
+       "legalAddress": {
+          "firstAddressLine": "Test",
+          "city": "City test",
+          "region": "US-MA",
+          "country": "US",
+          "postalCode": "1232"
+       },
+       "headquartersAddress": {
+          "firstAddressLine": "Test",
+          "city": "City test",
+          "region": "US-MA",
+          "country": "US",
+          "postalCode": "1232"
+       },
+       "registrationDetails": {
+          "registrationStatus": "issued",
+          "managingLou": "string",
+          "validationSources": "dasda",
+          "initialRegistrationDate": "2021-03-14",
+          "lastUpdateDate": "2021-03-14",
+          "nextRenewalDate": "2021-03-14"
+       }
+    },
+    {
+      "lei": "2112",
+      "version": 1,
+      "legalName": "test2",
+      "legalJurisdiction": "Test",
+      "entityCategory": "test",
+      "entityStatus": "ok",
+      "loadTime": "2021-03-14",
+      "legalAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "headquartersAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "registrationDetails": {
+         "registrationStatus": "issued",
+         "managingLou": "string",
+         "validationSources": "dasda",
+         "initialRegistrationDate": "2021-03-14",
+         "lastUpdateDate": "2021-03-14",
+         "nextRenewalDate": "2021-03-14"
+      }
+   },
+   {
+      "lei": "2113",
+      "version": 1,
+      "legalName": "test3",
+      "legalJurisdiction": "Test",
+      "entityCategory": "test",
+      "entityStatus": "ok",
+      "loadTime": "2021-03-14",
+      "legalAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "headquartersAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "registrationDetails": {
+         "registrationStatus": "issued",
+         "managingLou": "string",
+         "validationSources": "dasda",
+         "initialRegistrationDate": "2021-03-14",
+         "lastUpdateDate": "2021-03-14",
+         "nextRenewalDate": "2021-03-14"
+      }
+   },
+   {
+      "lei": "2114",
+      "version": 1,
+      "legalName": "test4",
+      "legalJurisdiction": "Test",
+      "entityCategory": "test",
+      "entityStatus": "ok",
+      "loadTime": "2021-03-14",
+      "legalAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "headquartersAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "registrationDetails": {
+         "registrationStatus": "issued",
+         "managingLou": "string",
+         "validationSources": "dasda",
+         "initialRegistrationDate": "2021-03-14",
+         "lastUpdateDate": "2021-03-14",
+         "nextRenewalDate": "2021-03-14"
+      }
+   },
+   {
+      "lei": "2115",
+      "version": 1,
+      "legalName": "test5",
+      "legalJurisdiction": "Test",
+      "entityCategory": "test",
+      "entityStatus": "ok",
+      "loadTime": "2021-03-14",
+      "legalAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "headquartersAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "registrationDetails": {
+         "registrationStatus": "issued",
+         "managingLou": "string",
+         "validationSources": "dasda",
+         "initialRegistrationDate": "2021-03-14",
+         "lastUpdateDate": "2021-03-14",
+         "nextRenewalDate": "2021-03-14"
+      }
+   },
+   {
+      "lei": "2116",
+      "version": 1,
+      "legalName": "test6",
+      "legalJurisdiction": "Test",
+      "entityCategory": "test",
+      "entityStatus": "ok",
+      "loadTime": "2021-03-14",
+      "legalAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "headquartersAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "registrationDetails": {
+         "registrationStatus": "issued",
+         "managingLou": "string",
+         "validationSources": "dasda",
+         "initialRegistrationDate": "2021-03-14",
+         "lastUpdateDate": "2021-03-14",
+         "nextRenewalDate": "2021-03-14"
+      }
+   },
+   {
+      "lei": "2117",
+      "version": 1,
+      "legalName": "test7",
+      "legalJurisdiction": "Test",
+      "entityCategory": "test",
+      "entityStatus": "ok",
+      "loadTime": "2021-03-14",
+      "legalAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "headquartersAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "registrationDetails": {
+         "registrationStatus": "issued",
+         "managingLou": "string",
+         "validationSources": "dasda",
+         "initialRegistrationDate": "2021-03-14",
+         "lastUpdateDate": "2021-03-14",
+         "nextRenewalDate": "2021-03-14"
+      }
+   },
+   {
+      "lei": "2118",
+      "version": 1,
+      "legalName": "test8",
+      "legalJurisdiction": "Test",
+      "entityCategory": "test",
+      "entityStatus": "ok",
+      "loadTime": "2021-03-14",
+      "legalAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "headquartersAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "registrationDetails": {
+         "registrationStatus": "issued",
+         "managingLou": "string",
+         "validationSources": "dasda",
+         "initialRegistrationDate": "2021-03-14",
+         "lastUpdateDate": "2021-03-14",
+         "nextRenewalDate": "2021-03-14"
+      }
+   },
+   {
+      "lei": "2119",
+      "version": 1,
+      "legalName": "test9",
+      "legalJurisdiction": "Test",
+      "entityCategory": "test",
+      "entityStatus": "ok",
+      "loadTime": "2021-03-14",
+      "legalAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "headquartersAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "registrationDetails": {
+         "registrationStatus": "issued",
+         "managingLou": "string",
+         "validationSources": "dasda",
+         "initialRegistrationDate": "2021-03-14",
+         "lastUpdateDate": "2021-03-14",
+         "nextRenewalDate": "2021-03-14"
+      }
+   },
+   {
+      "lei": "21110",
+      "version": 1,
+      "legalName": "test10",
+      "legalJurisdiction": "Test",
+      "entityCategory": "test",
+      "entityStatus": "ok",
+      "loadTime": "2021-03-14",
+      "legalAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "headquartersAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "registrationDetails": {
+         "registrationStatus": "issued",
+         "managingLou": "string",
+         "validationSources": "dasda",
+         "initialRegistrationDate": "2021-03-14",
+         "lastUpdateDate": "2021-03-14",
+         "nextRenewalDate": "2021-03-14"
+      }
+   },
+   {
+      "lei": "21111",
+      "version": 1,
+      "legalName": "test11",
+      "legalJurisdiction": "Test",
+      "entityCategory": "test",
+      "entityStatus": "ok",
+      "loadTime": "2021-03-14",
+      "legalAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "headquartersAddress": {
+         "firstAddressLine": "Test",
+         "city": "City test",
+         "region": "US-MA",
+         "country": "US",
+         "postalCode": "1232"
+      },
+      "registrationDetails": {
+         "registrationStatus": "issued",
+         "managingLou": "string",
+         "validationSources": "dasda",
+         "initialRegistrationDate": "2021-03-14",
+         "lastUpdateDate": "2021-03-14",
+         "nextRenewalDate": "2021-03-14"
+      }
+   }
+ ]
